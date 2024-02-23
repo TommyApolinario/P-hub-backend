@@ -1,0 +1,44 @@
+# Módulos de Node.js
+/node_modules
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Carpetas generadas por los sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Carpeta de almacenamiento local (si estás usando Visual Studio Code)
+.vscode/
+
+# Carpeta de almacenamiento de paquetes de npm
+.npm/
+
+# Archivos de entorno (normalmente .env)
+.env
+
+# Carpeta de construcción
+/build/
+
+# Archivo de dependencias de yarn
+.yarn
+
+# Archivo de bloqueo de yarn
+.yarn.lock
+
+# Carpeta de almacenamiento global de npm (normalmente ~/.npm-global)
+.npm-global/
+
+# Carpetas y archivos específicos del IDE o editor (por ejemplo, para WebStorm)
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
+
+# Carpetas específicas del proyecto (ajusta según tus necesidades)
+/dist/
+/out/
